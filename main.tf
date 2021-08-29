@@ -2,7 +2,9 @@ locals {
   service_account_roles = [
     "service1",
     "service2",
-    "service3"
+    "service3",
+    "service4",
+    "service5"
   ]
 }
 
